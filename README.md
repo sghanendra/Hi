@@ -1,6 +1,6 @@
 ### About
 
-PhD student researcher in astrocytic leaky blood brain barrier (BBB) at [INE](https://www.tugraz.at/ine/institute/team) TU Graz. Earlier worked as a software development engineer at a cell therapy startup. Previously as a research assistant in modeling Adaptive Therapy dynamics at Cancer systems biology lab [IISc](https://iisc.ac.in/).  I finished my masters in Computational Biology [CCB](https://cb.iiitd.ac.in/) at [IIIT](https://www.iiitd.ac.in/), Delhi.
+PhD researcher in astrocytic leaky blood brain barrier (BBB) at [INE](https://www.tugraz.at/ine/institute/team) TU Graz. Earlier worked as a software development engineer at a cell therapy startup. Previously as a research assistant in modeling Adaptive Therapy dynamics at Cancer systems biology lab [IISc](https://iisc.ac.in/).  I finished my masters in Computational Biology [CCB](https://cb.iiitd.ac.in/) at [IIIT](https://www.iiitd.ac.in/), Delhi.
 
 ### Research Interests
 [Computational Neuroscience, Neuro-AI, Neuromorphic Computing, Systems Biology, Aging](https://ghanendra19213.github.io/Hi/)
