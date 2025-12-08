@@ -3,7 +3,7 @@
 PhD researcher in astrocytic leaky blood brain barrier (BBB) at [INE](https://www.tugraz.at/ine/institute/team) TU Graz. Earlier worked as a software development engineer at a cell therapy startup. Previously as a research assistant in modeling Adaptive Therapy dynamics at Cancer systems biology lab [IISc](https://iisc.ac.in/).  I finished my masters in Computational Biology [CCB](https://cb.iiitd.ac.in/) at [IIIT](https://www.iiitd.ac.in/), Delhi.
 
 ### Research Interests
-[Computational Neuroscience, Neuro-AI, Neuromorphic Computing, Systems Biology, Aging](https://ghanendra19213.github.io/Hi/)
+[Computational Neuroscience, Neuromorphic Computing, Aging](https://ghanendra19213.github.io/Hi/)
 
 * bioRxiv  : Therapy Induced Tumor Senescence Model. [BioRxiv](https://doi.org/10.1101/2022.10.23.513380)
 * bioRxiv  : Astrocytic Sleep Homeostasis Model. [BioRxiv](https://doi.org/10.1101/2022.10.23.513378)
@@ -11,41 +11,31 @@ PhD researcher in astrocytic leaky blood brain barrier (BBB) at [INE](https://ww
 * bioRxiv  : Mechanistic Model of Telomere Length Homeostasis in Yeast. [BioRxiv](https://doi.org/10.1101/2021.10.02.462846)
 * bioRxiv  : Mechanistic Model of Replication Fork Progression in Yeast. [BioRxiv](https://doi.org/10.1101/2021.10.03.462908)
 
-### Thesis
-Master's Thesis  : Modeling the dynamics of telomere end replication. [Thesis Defence](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjv2pXSy_r7AhUs-TgGHbc8D_8QFnoECA0QAQ&url=https%3A%2F%2Fcb.iiitd.ac.in%2Fthesisdocs%2FInvitation%2520to%2520MTech%2520Thesis%2520Defense%2520of%2520Ghanendra%2520Singh.pdf&usg=AOvVaw3oPm-_uFmfqFEs1H2vghgz)
 
 <!--//[Project Demo for Synbio Project](https://youtu.be/IKwc3thhMbY) -->
 
 ### Conferences
-* Neuro Inspired Computational Elements Conference [NICE](https://niceworkshop.org/) 2025. Watch it here [Youtube](https://www.youtube.com/watch?v=zVDuk00blAQ)
-* Society of Mathematical Biology Virtual (SMB 2021), presented a poster [SMB](http://schedule.smb2021.org/ONCO/ONCO-PS01-ONCO-11.html)
-* Atended NICE Conference, Neuroinspired Computational Elements Conference, (2021) [NICE](https://niceworkshop.org/nice-2021/)
-* Attended ICRTB International Conference on Recent Trends in Bioengineering Pune (2020) [ICRTB](https://www.mitbio.edu.in/icrtb/)
-
+* XVII European Meeting on Glial Cells [GLIA](https://www.glia2025.eu/) 2025
+* Switching dynamics of Working Memory [NICE](https://niceworkshop.org/) 2025 [Youtube](https://www.youtube.com/watch?v=zVDuk00blAQ)
+* Society of Mathematical Biology Virtual (SMB 2021) [SMB](http://schedule.smb2021.org/ONCO/ONCO-PS01-ONCO-11.html)
+<!--
 ### Projects
 * Hyperledger Fabric for secure storage of Human ageing genomic data under [Dr. Donghoon Chang](https://www.iiitd.ac.in/donghoon). Project link: [GitHub](https://github.com/Ghanendra19213/IBC) and demo: [Youtube](https://youtu.be/h0Bb_r2ru1A)
 * Optimization of molecules using reinforcement  learning under [Dr. Sanjit Krishnan Kaul](https://www.iiitd.ac.in/skkaul). Project Link: [GitHub](https://github.com/Ghanendra19213/Reinforcement-Learning)
 * Analysis of C. elegans neuronal network properties under [Dr. Ganesh Bagler](https://www.iiitd.ac.in/bagler). Project Link: [GitHub](https://github.com/Ghanendra19213/Network_Biology_Project)
 * Telomere Length Regulation at [MIT edx](https://www.edx.org/course/principles-of-synthetic-biology). Project demo: [Youtube](https://youtu.be/IKwc3thhMbY)
+-->
+
+<!--
 
 ```markdown
-<!-- Ideate, Implement and Execute
-[Futurist] -->
-// Singularity is Far.
-# import NGI
-# import QC
-# import Synbio
-void main ()
-## func Simulate(Brain) {
--   Emerge()
--   Mutate()
--   Evolve()
--   Converge()
-return Homo Speciation
-}
-[print("Human-Machine Symbiosis")]("Homo-Sapiens-v2.0")
-```
-For more details check this [Article](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing), personally I find this an interesting read which interconnects Synthetic Biology , Artificial Intelligence, and Quantum Computing (Synbio - AI - QC Technology Triad) and its applications for Homo Sapiens in near future.
+'''
+
+-->
+
+
+<!-- For more details check this [Article](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing), personally I find this an interesting read which interconnects Synthetic Biology , Artificial Intelligence, and Quantum Computing (Synbio - AI - QC Technology Triad) and its applications for Homo Sapiens in near future.
+-->
 
 <!--
 #### (Electronics Projects)
