@@ -18,7 +18,7 @@ PhD researcher in astrocytic leaky blood brain barrier (Leaky-BBB) at [INE](http
 * XVII European Meeting on Glial Cells [GLIA](https://www.glia2025.eu/) 2025
 * International Astrocyte School [IAS](https://ias2025.azuleon.org/) 2025
 * Switching dynamics of Working Memory [NICE](https://www.youtube.com/watch?v=zVDuk00blAQ) 2025
-* Society of Mathematical Biology (SMB 2021) [SMB](http://schedule.smb2021.org/ONCO/ONCO-PS01-ONCO-11.html)
+* Society of Mathematical Biology (SMB 2021)
 
 <!--
 * Hyperledger Fabric for secure storage of Human ageing genomic data under [Dr. Donghoon Chang](https://www.iiitd.ac.in/donghoon). Project link: [GitHub](https://github.com/Ghanendra19213/IBC) and demo: [Youtube](https://youtu.be/h0Bb_r2ru1A)
