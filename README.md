@@ -1,25 +1,26 @@
 ### About
 
-PhD researcher in astrocytic leaky blood brain barrier (BBB) at [INE](https://www.tugraz.at/ine/institute/team) TU Graz. Earlier worked as a software development engineer at a cell therapy startup. Previously as a research assistant in modeling Adaptive Therapy dynamics at Cancer systems biology lab [IISc](https://iisc.ac.in/).  I finished my masters in Computational Biology [CCB](https://cb.iiitd.ac.in/) at [IIIT](https://www.iiitd.ac.in/), Delhi.
+PhD researcher in astrocytic leaky blood brain barrier (BBB) at [INE](https://www.tugraz.at/ine/institute/team) TU Graz. Earlier worked as a SDE at a cell therapy startup. I finished my masters in Computational Biology at [IIIT](https://www.iiitd.ac.in/), Delhi.
 
 ### Research Interests
 [Computational Neuroscience, Neuromorphic Computing, Aging](https://ghanendra19213.github.io/Hi/)
 
-* bioRxiv  : Therapy Induced Tumor Senescence Model. [BioRxiv](https://doi.org/10.1101/2022.10.23.513380)
-* bioRxiv  : Astrocytic Sleep Homeostasis Model. [BioRxiv](https://doi.org/10.1101/2022.10.23.513378)
-* bioRxiv  : Population Dynamics of Hybrid State during Adaptive Therapy in Cancer [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.27.470219v1)
-* bioRxiv  : Mechanistic Model of Telomere Length Homeostasis in Yeast. [BioRxiv](https://doi.org/10.1101/2021.10.02.462846)
-* bioRxiv  : Mechanistic Model of Replication Fork Progression in Yeast. [BioRxiv](https://doi.org/10.1101/2021.10.03.462908)
+* Therapy Induced Tumor Senescence Model. [BioRxiv](https://doi.org/10.1101/2022.10.23.513380)
+* Astrocytic Sleep Homeostasis Model. [BioRxiv](https://doi.org/10.1101/2022.10.23.513378)
+* Cancer Population Dynamics Model. [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.27.470219v1)
+* Telomere Length Homeostasis Model. [BioRxiv](https://doi.org/10.1101/2021.10.02.462846)
+* Replication Fork Progression Model. [BioRxiv](https://doi.org/10.1101/2021.10.03.462908)
 
 
-<!--//[Project Demo for Synbio Project](https://youtu.be/IKwc3thhMbY) -->
+<!--[Project Demo for Synbio Project](https://youtu.be/IKwc3thhMbY) -->
 
 ### Conferences
 * XVII European Meeting on Glial Cells [GLIA](https://www.glia2025.eu/) 2025
+* International Astrocyte School [IAS](https://ias2025.azuleon.org/) 2025
 * Switching dynamics of Working Memory [NICE](https://niceworkshop.org/) 2025 [Youtube](https://www.youtube.com/watch?v=zVDuk00blAQ)
-* Society of Mathematical Biology Virtual (SMB 2021) [SMB](http://schedule.smb2021.org/ONCO/ONCO-PS01-ONCO-11.html)
+* Society of Mathematical Biology (SMB 2021) [SMB](http://schedule.smb2021.org/ONCO/ONCO-PS01-ONCO-11.html)
+
 <!--
-### Projects
 * Hyperledger Fabric for secure storage of Human ageing genomic data under [Dr. Donghoon Chang](https://www.iiitd.ac.in/donghoon). Project link: [GitHub](https://github.com/Ghanendra19213/IBC) and demo: [Youtube](https://youtu.be/h0Bb_r2ru1A)
 * Optimization of molecules using reinforcement  learning under [Dr. Sanjit Krishnan Kaul](https://www.iiitd.ac.in/skkaul). Project Link: [GitHub](https://github.com/Ghanendra19213/Reinforcement-Learning)
 * Analysis of C. elegans neuronal network properties under [Dr. Ganesh Bagler](https://www.iiitd.ac.in/bagler). Project Link: [GitHub](https://github.com/Ghanendra19213/Network_Biology_Project)
