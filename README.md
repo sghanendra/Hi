@@ -1,9 +1,9 @@
 ### About
 
-PhD researcher in astrocytic leaky blood brain barrier (BBB) at [INE](https://www.tugraz.at/ine/institute/team) TU Graz. Earlier worked as a SDE at a cell therapy startup. I finished my masters in Computational Biology at [IIIT](https://www.iiitd.ac.in/), Delhi.
+PhD researcher in astrocytic leaky blood brain barrier (Leaky-BBB) at [INE](https://www.tugraz.at/ine/institute/team) TU Graz. I finished my masters in Computational Biology at [IIIT](https://www.iiitd.ac.in/), Delhi.
 
 ### Research Interests
-[Computational Neuroscience, Neuromorphic Computing, Aging](https://ghanendra19213.github.io/Hi/)
+[Computational Neuroscience, Astrocytes, Neuromorphic Computing, Aging](https://sghanendra.github.io/Hi/)
 
 * Therapy Induced Tumor Senescence Model. [BioRxiv](https://doi.org/10.1101/2022.10.23.513380)
 * Astrocytic Sleep Homeostasis Model. [BioRxiv](https://doi.org/10.1101/2022.10.23.513378)
@@ -17,7 +17,7 @@ PhD researcher in astrocytic leaky blood brain barrier (BBB) at [INE](https://ww
 ### Conferences
 * XVII European Meeting on Glial Cells [GLIA](https://www.glia2025.eu/) 2025
 * International Astrocyte School [IAS](https://ias2025.azuleon.org/) 2025
-* Switching dynamics of Working Memory [NICE](https://niceworkshop.org/) 2025 [Youtube](https://www.youtube.com/watch?v=zVDuk00blAQ)
+* Switching dynamics of Working Memory [NICE](https://www.youtube.com/watch?v=zVDuk00blAQ) 2025
 * Society of Mathematical Biology (SMB 2021) [SMB](http://schedule.smb2021.org/ONCO/ONCO-PS01-ONCO-11.html)
 
 <!--
@@ -33,7 +33,6 @@ PhD researcher in astrocytic leaky blood brain barrier (BBB) at [INE](https://ww
 '''
 
 -->
-
 
 <!-- For more details check this [Article](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing), personally I find this an interesting read which interconnects Synthetic Biology , Artificial Intelligence, and Quantum Computing (Synbio - AI - QC Technology Triad) and its applications for Homo Sapiens in near future.
 -->
