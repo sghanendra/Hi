@@ -3,7 +3,7 @@
 PhD researcher in astrocytic leaky blood brain barrier (Leaky-BBB) at [INE](https://www.tugraz.at/ine/institute/team) TU Graz. I finished my masters in Computational Biology at [IIIT](https://www.iiitd.ac.in/), Delhi.
 
 ### Research Interests
-[Computational Neuroscience, Astrocytes, Neuromorphic Computing, Aging](https://sghanendra.github.io/Hi/)
+[Computational Neuroscience, Astrocytes, Aging](https://sghanendra.github.io/Hi/)
 
 * Therapy Induced Tumor Senescence Model. [BioRxiv](https://doi.org/10.1101/2022.10.23.513380)
 * Astrocytic Sleep Homeostasis Model. [BioRxiv](https://doi.org/10.1101/2022.10.23.513378)
