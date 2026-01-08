@@ -5,11 +5,12 @@ PhD researcher in astrocytic leaky blood brain barrier (Leaky-BBB) at [INE](http
 ### Research Interests
 [Computational Neuroscience, Astrocytes, Aging](https://sghanendra.github.io/Hi/)
 
-* Therapy Induced Tumor Senescence Model. [BioRxiv](https://doi.org/10.1101/2022.10.23.513380)
-* Astrocytic Sleep Homeostasis Model. [BioRxiv](https://doi.org/10.1101/2022.10.23.513378)
-* Cancer Population Dynamics Model. [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.27.470219v1)
-* Telomere Length Homeostasis Model. [BioRxiv](https://doi.org/10.1101/2021.10.02.462846)
-* Replication Fork Progression Model. [BioRxiv](https://doi.org/10.1101/2021.10.03.462908)
+* Cortical Spiral Traveling Waves Model [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.01.06.698037v1)
+* Therapy Induced Tumor Senescence Model. [bioRxiv](https://doi.org/10.1101/2022.10.23.513380)
+* Astrocytic Sleep Homeostasis Model. [bioRxiv](https://doi.org/10.1101/2022.10.23.513378)
+* Cancer Population Dynamics Model. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.27.470219v1)
+* Telomere Length Homeostasis Model. [bioRxiv](https://doi.org/10.1101/2021.10.02.462846)
+* Replication Fork Progression Model. [bioRxiv](https://doi.org/10.1101/2021.10.03.462908)
 
 
 <!--[Project Demo for Synbio Project](https://youtu.be/IKwc3thhMbY) -->
@@ -18,7 +19,7 @@ PhD researcher in astrocytic leaky blood brain barrier (Leaky-BBB) at [INE](http
 * XVII European Meeting on Glial Cells [GLIA](https://www.glia2025.eu/) 2025
 * International Astrocyte School [IAS](https://ias2025.azuleon.org/) 2025
 * Switching dynamics of Working Memory [NICE](https://www.youtube.com/watch?v=zVDuk00blAQ) 2025
-* Society of Mathematical Biology (SMB 2021)
+* Society of Mathematical Biology [SMB](https://smb.org/) 2021
 
 <!--
 * Hyperledger Fabric for secure storage of Human ageing genomic data under [Dr. Donghoon Chang](https://www.iiitd.ac.in/donghoon). Project link: [GitHub](https://github.com/Ghanendra19213/IBC) and demo: [Youtube](https://youtu.be/h0Bb_r2ru1A)
