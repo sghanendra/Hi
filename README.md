@@ -21,12 +21,11 @@ PhD researcher in astrocytic leaky blood brain barrier (Leaky-BBB) at [INE](http
 * Switching dynamics of Working Memory [NICE](https://www.youtube.com/watch?v=zVDuk00blAQ) 2025
 * Society of Mathematical Biology [SMB](https://smb.org/) 2021
 
-<!--
+### Course Projects
 * Hyperledger Fabric for secure storage of Human ageing genomic data under [Dr. Donghoon Chang](https://www.iiitd.ac.in/donghoon). Project link: [GitHub](https://github.com/Ghanendra19213/IBC) and demo: [Youtube](https://youtu.be/h0Bb_r2ru1A)
 * Optimization of molecules using reinforcement  learning under [Dr. Sanjit Krishnan Kaul](https://www.iiitd.ac.in/skkaul). Project Link: [GitHub](https://github.com/Ghanendra19213/Reinforcement-Learning)
 * Analysis of C. elegans neuronal network properties under [Dr. Ganesh Bagler](https://www.iiitd.ac.in/bagler). Project Link: [GitHub](https://github.com/Ghanendra19213/Network_Biology_Project)
 * Telomere Length Regulation at [MIT edx](https://www.edx.org/course/principles-of-synthetic-biology). Project demo: [Youtube](https://youtu.be/IKwc3thhMbY)
--->
 
 <!--
 
@@ -38,8 +37,8 @@ PhD researcher in astrocytic leaky blood brain barrier (Leaky-BBB) at [INE](http
 <!-- For more details check this [Article](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing), personally I find this an interesting read which interconnects Synthetic Biology , Artificial Intelligence, and Quantum Computing (Synbio - AI - QC Technology Triad) and its applications for Homo Sapiens in near future.
 -->
 
-<!--
-#### (Electronics Projects)
+
+### Electronics Projects
 * Facial Motion Capture System [Youtube](https://youtu.be/2teiiQQX7-E)
 * Electromyography using myoware muscle sensor [Youtube](https://youtu.be/Gjqd5WrPDgQ)
 * Pulseoximeter hardware prototype [Youtube](https://youtu.be/ccWYdWIM7V4)
@@ -52,7 +51,8 @@ PhD researcher in astrocytic leaky blood brain barrier (Leaky-BBB) at [INE](http
 * Adaptive High Beam Control of Vehicles [IEEE](https://transmitter.ieee.org/makerproject/view/28283)
 * Folding at home using Jetson Nano [Youtube](https://youtu.be/FcmMP20d514)
 * Wireless Android Phone Bluetooth controlled Robot [Youtube](https://youtu.be/90tBvZ9Sy50)
--->
+
+
 <!-- * RoadTrip -->
 <!--  ![RoadTrip](https://user-images.githubusercontent.com/57911691/100425277-e8a05400-30b4-11eb-97b6-b66b3fdff220.jpg) -->
 <!--### Insects
