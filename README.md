@@ -1,9 +1,14 @@
 ### About
 
-PhD researcher in astrocytic leaky blood brain barrier (Leaky-BBB) at [INE](https://www.tugraz.at/ine/institute/team) TU Graz. I finished my masters in Computational Biology at [IIIT](https://www.iiitd.ac.in/), Delhi.
+Currently, looking for PhD research positions in academics/industry.
 
-### Research Interests
-[Computational Neuroscience, Astrocytes, Aging](https://sghanendra.github.io/Hi/)
+#### Research Interests
+* [Computational Neuroscience, Astrocytes, Aging, Working Memory,Systems Biology](https://sghanendra.github.io/Hi/) 
+* [Dynamical Systems, Neural Theory, Neuromorphic Computing, Memristors](https://sghanendra.github.io/Hi/)
+
+* Previously, worked as a PhD researcher on computational modeling of complex and sparse calcium microdomain dynamics in astrocytes endfeets at leaky blood brain barrier (Leaky-BBB) at [INE](https://www.tugraz.at/ine/institute/team) TU Graz. I finished my masters in Computational Biology at [IIIT](https://www.iiitd.ac.in/), Delhi.
+
+### On bioRxiv
 
 * Cortical Spiral Traveling Waves Model [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.01.06.698037v1)
 * Therapy Induced Tumor Senescence Model. [bioRxiv](https://doi.org/10.1101/2022.10.23.513380)
@@ -16,6 +21,7 @@ PhD researcher in astrocytic leaky blood brain barrier (Leaky-BBB) at [INE](http
 <!--[Project Demo for Synbio Project](https://youtu.be/IKwc3thhMbY) -->
 
 ### Conferences
+* Computational and Systems Neurosciences [COSYNE](https://www.cosyne.org/) 2026
 * XVII European Meeting on Glial Cells [GLIA](https://www.glia2025.eu/) 2025
 * International Astrocyte School [IAS](https://ias2025.azuleon.org/) 2025
 * Switching dynamics of Working Memory [NICE](https://www.youtube.com/watch?v=zVDuk00blAQ) 2025
@@ -34,8 +40,8 @@ PhD researcher in astrocytic leaky blood brain barrier (Leaky-BBB) at [INE](http
 
 -->
 
-<!-- For more details check this [Article](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing), personally I find this an interesting read which interconnects Synthetic Biology , Artificial Intelligence, and Quantum Computing (Synbio - AI - QC Technology Triad) and its applications for Homo Sapiens in near future.
--->
+For more details check this [Article](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing), personally I find this an interesting read which interconnects Synthetic Biology , Artificial Intelligence, and Quantum Computing (Synbio - AI - QC Technology Triad) and its applications for Homo Sapiens in near future.
+
 
 
 ### Electronics Projects
