@@ -1,12 +1,12 @@
 ### About
 
-Currently, looking for PhD research positions in academics/industry.
+Currently, looking for PhD research positions in Computational Neuroscience.
 
 #### Research Interests
-* [Computational Neuroscience, Astrocytes, Aging, Working Memory,Systems Biology](https://sghanendra.github.io/Hi/) 
-* [Dynamical Systems, Neural Theory, Neuromorphic Computing, Memristors](https://sghanendra.github.io/Hi/)
+* Computational Neuroscience, Dynamical Systems, Working Memory 
+* Neural Theory, Neuromorphic Computing, Memristors Modeling
 
-* Previously, worked as a PhD researcher on computational modeling of complex and sparse calcium microdomain dynamics in astrocytes endfeets at leaky blood brain barrier (Leaky-BBB) at [INE](https://www.tugraz.at/ine/institute/team) TU Graz. I finished my masters in Computational Biology at [IIIT](https://www.iiitd.ac.in/), Delhi.
+* Previously, worked as a research assistant on computational modeling of complex and sparse calcium microdomain dynamics in astrocytes endfeets at [INE](https://www.tugraz.at/ine/institute/team) TU Graz. I finished my masters in Computational Biology at [IIIT](https://www.iiitd.ac.in/), Delhi.
 
 ### On bioRxiv
 
@@ -20,12 +20,13 @@ Currently, looking for PhD research positions in academics/industry.
 
 <!--[Project Demo for Synbio Project](https://youtu.be/IKwc3thhMbY) -->
 
-### Conferences
+<!-- ### Conferences
 * Computational and Systems Neurosciences [COSYNE](https://www.cosyne.org/) 2026
 * XVII European Meeting on Glial Cells [GLIA](https://www.glia2025.eu/) 2025
 * International Astrocyte School [IAS](https://ias2025.azuleon.org/) 2025
-* Switching dynamics of Working Memory [NICE](https://www.youtube.com/watch?v=zVDuk00blAQ) 2025
+* Neuro Inspired Computational Elements [NICE](https://www.youtube.com/watch?v=zVDuk00blAQ) 2025
 * Society of Mathematical Biology [SMB](https://smb.org/) 2021
+-->
 
 ### Course Projects
 * Hyperledger Fabric for secure storage of Human ageing genomic data under [Dr. Donghoon Chang](https://www.iiitd.ac.in/donghoon). Project link: [GitHub](https://github.com/Ghanendra19213/IBC) and demo: [Youtube](https://youtu.be/h0Bb_r2ru1A)
@@ -40,10 +41,10 @@ Currently, looking for PhD research positions in academics/industry.
 
 -->
 
-For more details check this [Article](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing), personally I find this an interesting read which interconnects Synthetic Biology , Artificial Intelligence, and Quantum Computing (Synbio - AI - QC Technology Triad) and its applications for Homo Sapiens in near future.
+<!-- For more details check this [Article](https://www.intechopen.com/books/synthetic-biology-new-interdisciplinary-science/synthetic-biology-artificial-intelligence-and-quantum-computing), personally I find this an interesting read which interconnects Synthetic Biology , Artificial Intelligence, and Quantum Computing (Synbio - AI - QC Technology Triad) and its applications for Homo Sapiens in near future. -->
 
 
-
+<!--
 ### Electronics Projects
 * Facial Motion Capture System [Youtube](https://youtu.be/2teiiQQX7-E)
 * Electromyography using myoware muscle sensor [Youtube](https://youtu.be/Gjqd5WrPDgQ)
@@ -57,7 +58,7 @@ For more details check this [Article](https://www.intechopen.com/books/synthetic
 * Adaptive High Beam Control of Vehicles [IEEE](https://transmitter.ieee.org/makerproject/view/28283)
 * Folding at home using Jetson Nano [Youtube](https://youtu.be/FcmMP20d514)
 * Wireless Android Phone Bluetooth controlled Robot [Youtube](https://youtu.be/90tBvZ9Sy50)
-
+-->
 
 <!-- * RoadTrip -->
 <!--  ![RoadTrip](https://user-images.githubusercontent.com/57911691/100425277-e8a05400-30b4-11eb-97b6-b66b3fdff220.jpg) -->
